@@ -512,4 +512,4 @@ your-test-project/
 
 ## License
 
-MIT — built with ❤️ using Claude AI, React, and Node.js.
+MIT — built with using AI, React, and Node.js.
